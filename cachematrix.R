@@ -14,16 +14,3 @@ cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
 }
 
-    Status
-    API
-    Training
-    Shop
-    Blog
-    About
-
-    © 2014 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Contact
-
